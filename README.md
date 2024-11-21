@@ -30,5 +30,5 @@
 💼 Estou sempre em busca de novos desafios e oportunidades para aprender e amadurecer. Se tiver alguma dúvida ou precisar de alguem com minhas competências, não hesite em entrar em contato!
 
 ### Redes
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-ribeiro-4b78002b2)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ribeiro-4b78002b2)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudu__rib/)
