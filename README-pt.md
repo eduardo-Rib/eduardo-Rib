@@ -7,27 +7,26 @@
   </a>
 </p>
 
+## Olá, eu sou Eduardo Ribeiro 👋  
+💻 Apaixonado por Desenvolvimento de Software | Entusiasta de Backend | Aprendiz Constante  
 
-## Hi there, I'm Eduardo Ribeiro 👋  
-💻 Passionate about Software Development | Backend Enthusiast | Constant Learner  
+### 🧑‍💻 Sobre Mim
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FATEC São José dos Campos
+- 💡 Interessado em **Desenvolvimento Backend** e **Engenharia de Dados**
+- 🚀 Sempre aprendendo novas tecnologias e boas práticas
 
-### 🧑‍💻 About Me
-- 🎓 Currently studying **Systems Analysis and Development** at FATEC São José dos Campos
-- 💡 Interested in **Backend Development** and **Data Engineering**
-- 🚀 Always learning new technologies and best practices
-
-### 🛠 Languages and Tools
-**Main Languages**  
+### 🛠 Linguagens e Ferramentas
+**Principais Linguagens**  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,javascript,typescript,html,css" height="45" />
 </div>
 
-**Frameworks & tools**  
+**Frameworks & Ferramentas**  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,next,flask,nodejs,npm" height="45" />
 </div>
 
-**Databases:**  
+**Bancos de Dados:**  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
 </div>
@@ -35,9 +34,9 @@
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=eduardo-rib&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 📂 Featured Projects  
-- [🐾 Pet Shop Management System](https://github.com/eduardo-Rib/PetLovers) – A complete system for managing pet shops, including client and pet records.  
-- [🌐 Portfolio Website](https://github.com/eduardo-Rib/PrototipoPortifolio) – A personal portfolio prototype developed with Node.js, Express, and EJS templates.
+### 📂 Projetos em Destaque  
+- [🐾 Sistema de Gerenciamento de Pet Shop](https://github.com/eduardo-Rib/PetLovers) – Um sistema completo para gerenciamento de pet shops, incluindo cadastro de clientes e pets.  
+- [🌐 Site de Portfólio](https://github.com/eduardo-Rib/PrototipoPortifolio) – Um protótipo de portfólio pessoal desenvolvido com Node.js, Express e templates EJS.  
 
 
 ### Redes
