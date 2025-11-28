@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Currently studying **Systems Analysis and Development** at FATEC São José dos Campos
-- 💡 Interested in **Backend Development** and **Data Engineering**
+- 💡 Interested in **Backend Development**
 - 🚀 Always learning new technologies and best practices
 
 ### 🛠 Languages and Tools
