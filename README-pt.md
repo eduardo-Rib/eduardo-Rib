@@ -34,11 +34,6 @@
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=eduardo-rib&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 📂 Projetos em Destaque  
-- [🐾 Sistema de Gerenciamento de Pet Shop](https://github.com/eduardo-Rib/PetLovers) – Um sistema completo para gerenciamento de pet shops, incluindo cadastro de clientes e pets.  
-- [🌐 Site de Portfólio](https://github.com/eduardo-Rib/PrototipoPortifolio) – Um protótipo de portfólio pessoal desenvolvido com Node.js, Express e templates EJS.  
-
-
 ### Redes
 <p align="left">
     <a href="https://github.com/eduardo-Rib" style="margin:10px"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
